@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CWAC-SafeRoom-01</string>
+    <string name="nombre">Nombre</string>
+    <string name="phone">Teléfono</string>
+    <string name="name">Nombre</string>
+    <string name="label">Etiqueta</string>
+    <string name="export">Exportar BD</string>
+</resources>
